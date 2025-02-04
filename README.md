@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Wan <br> a Software Engineering student. Interest in programming and web development using Javascript. <br> To the better future 🚀.
+Hi, I'm Wan <br> A Software Engineering student. Interest in programming and web development using Javascript. <br> To the better future 🚀.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wanneyr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dwonvy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neyrworks@gmail.com) 
