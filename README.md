@@ -1,4 +1,4 @@
-#Hi, I'm Wan <br>
+# Hi, I'm One (Wan) <br>
 A Software Engineering student. Interest in programming and web development using Javascript. <br> To the better future!.
 
 ## Stacks
